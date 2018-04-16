@@ -1,7 +1,7 @@
 // Tworzymy pojedynczy element kontaktowy 
  var Contact = React.createClass({
  	propTypes:{
- 		item: React.PropTypes.object.isRquired,
+ 		item: React.PropTypes.object.isRequired,
  	},
 
  	render: function(){
